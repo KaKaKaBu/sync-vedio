@@ -23,9 +23,9 @@ const App = new Vue({
 
     /* leancloud-realtime 添加以下变量，appId、appKey、server这几个值去leancloud控制台>设置>应用凭证里面找 */
     chatRoom: null,
-    appId: '*******************',
-    appKey: '*******************',
-    server: 'https://*******************.***.com', // REST API 服务器地址
+    appId: 'UrPZqKgYfnExChkRollduzGv-gzGzoHsz',
+    appKey: 'WEvrhs6WobdsGVGnaViwxkda',
+    server: 'https://urpzqkgy.lc-cn-n1-shared.com', // REST API 服务器地址
   },
   methods: {
     randomString(length) {
